@@ -6,7 +6,7 @@
     echo $argv[2] + $argv[4];
     }
     elseif($argv[1]=="sub")
-    {
+    {   
         echo $argv[2] - $argv[4];
     }   
 
